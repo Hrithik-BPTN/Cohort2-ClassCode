@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec86c85-3b1c-4d56-bd58-0dcec7e02373" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cohort2-Class-Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +40,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.tuesday.abstract_classes.shape.Circle" />
-      <module name="Cohort2-Class-Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.tuesday.abstract_classes.shape.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.protected_modifier2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.tuesday.interfaces.Main" />
       <module name="Cohort2-Class-Code" />
@@ -73,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shape_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.tuesday.abstract_classes.shape.Shape_Implementation" />
+    <configuration name="default_modifier2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.default_modifier2" />
       <module name="Cohort2-Class-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.tuesday.abstract_classes.shape.*" />
+          <option name="PATTERN" value="week2.wednesday.access_modifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +67,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vehicle_Creator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.tuesday.abstract_classes.vehicles.Vehicle_Creator" />
+    <configuration name="private_modifier1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.private_modifier1" />
       <module name="Cohort2-Class-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.tuesday.abstract_classes.vehicles.*" />
+          <option name="PATTERN" value="week2.wednesday.access_modifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="protected_modifier2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.p1.protected_modifier2" />
+      <module name="Cohort2-Class-Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.wednesday.access_modifiers.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="week2.wednesday.access_modifiers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.Main" />
+      <module name="Cohort2-Class-Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.wednesday.access_modifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,10 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.protected_modifier2" />
+        <item itemvalue="Application.default_modifier2" />
+        <item itemvalue="Application.private_modifier1" />
+        <item itemvalue="Application.week2.wednesday.access_modifiers.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Vehicle_Creator" />
-        <item itemvalue="Application.Shape_Implementation" />
-        <item itemvalue="Application.Circle" />
       </list>
     </recent_temporary>
   </component>
