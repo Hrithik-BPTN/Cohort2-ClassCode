@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4ec86c85-3b1c-4d56-bd58-0dcec7e02373" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/wednesday/access_modifiers/private_modifier1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/wednesday/access_modifiers/private_modifier1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +41,13 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.protected_modifier2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.tuesday.interfaces.Main" />
+  <component name="RunManager" selected="Application.NestedException">
+    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.thursday.CheckedException" />
       <module name="Cohort2-Class-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.tuesday.interfaces.*" />
+          <option name="PATTERN" value="week2.thursday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="default_modifier2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.default_modifier2" />
+    <configuration name="ExceptionExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.thursday.ExceptionExample1" />
       <module name="Cohort2-Class-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.wednesday.access_modifiers.*" />
+          <option name="PATTERN" value="week2.thursday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="private_modifier1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.private_modifier1" />
+    <configuration name="ExceptionExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.thursday.ExceptionExample2" />
       <module name="Cohort2-Class-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.wednesday.access_modifiers.*" />
+          <option name="PATTERN" value="week2.thursday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="protected_modifier2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.p1.protected_modifier2" />
+    <configuration name="NestedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.thursday.NestedException" />
       <module name="Cohort2-Class-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.wednesday.access_modifiers.p1.*" />
+          <option name="PATTERN" value="week2.thursday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week2.wednesday.access_modifiers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.wednesday.access_modifiers.Main" />
+    <configuration name="UncheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.thursday.UncheckedException" />
       <module name="Cohort2-Class-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.wednesday.access_modifiers.*" />
+          <option name="PATTERN" value="week2.thursday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.protected_modifier2" />
-        <item itemvalue="Application.default_modifier2" />
-        <item itemvalue="Application.private_modifier1" />
-        <item itemvalue="Application.week2.wednesday.access_modifiers.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NestedException" />
+        <item itemvalue="Application.UncheckedException" />
+        <item itemvalue="Application.CheckedException" />
+        <item itemvalue="Application.ExceptionExample2" />
+        <item itemvalue="Application.ExceptionExample1" />
       </list>
     </recent_temporary>
   </component>

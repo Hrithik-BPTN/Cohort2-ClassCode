@@ -2,8 +2,8 @@ package week2.wednesday.access_modifiers;
 
 class Data {
     // private field
-    private String address;
-//    public String address;
+//    private String address;
+    public String address;
 
 
 }
