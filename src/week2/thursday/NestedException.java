@@ -52,9 +52,13 @@ public class NestedException {
             }
 
 
-        } catch (Exception e) {
+        } catch (Exception e) { // Outer Catch Block
             System.out.println("Can not divide by Zero!");
         }
+
+
     }
+
+
 
 }
